@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Infos and materials for courses I teach. 
 nav: true
-nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+## `A.A. 2023/2024`
+#### Seminars in Data Science, MSc in Data Science - IT University of Copenhagen
+All relevant material (including that of my lecture "Brief history on fundamental social theories") is available on [LearnIT](https://learnit.itu.dk/course/view.php?id=3022253).
