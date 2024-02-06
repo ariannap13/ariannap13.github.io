@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-01-15 07:59:00-0400
+date: 2023-06-30 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-IC2S2 was a blast! I have had the opportunity to attend my first ever conference and present the work from my MSc thesis in the form of a lightening talk at a plenary session. Happy to have met many new friends!
+I have just came back from [Complexity72h](https://complexity72h.com/previous-editions/) 🇪🇸, an amazing workshop where research ideas on complex systems turn into pre-prints in only 72h. I had the pleasure to work with [Giulia Pullano](https://giuliapullano.weebly.com/) on analyzing the disruption of human activities caused by extreme climate events in U.S. and its consequence on respiratory disease spreading.
