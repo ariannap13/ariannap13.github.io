@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-01-15 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+IC2S2 was a blast! I have had the opportunity to attend my first ever conference and present the work from my MSc thesis in the form of a lightening talk at a plenary session. Happy to have met many new friends!

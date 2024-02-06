@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords:  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🌵 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ariannap13.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -104,7 +104,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  For questions and collaborations, drop me and email.
+  Drop me and email, I am happy to chat about research and food.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -123,8 +123,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: arianna-oera # blog_name will be displayed in your blog page
+blog_description: Thoughts, stories and ideas # blog_description will be displayed in your blog page
 permalink: /blog/:year/:title/
 
 # Pagination
