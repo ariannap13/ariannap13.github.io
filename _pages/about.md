@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Student @ IT University of Copenhagen · Denmark
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    Reach me at <br>
+    arpe@itu.dk
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -19,8 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, welcome on my page ☀️
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a PhD student in Computational Social Science at the IT University of Copenhagen where I joined the [NERDS research group](https://nerds.itu.dk/).
+I am part of the [COllective COordination through Online Social media (COCOONS)](https://www.cocoons.online/) research project, supervised by [Prof. Luca Maria Aiello](https://www.lajello.com/index.html). My current focus is on identifying the prime elements in social interactions that can lead to the emergence of collective efforts towards finding solutions to social dilemmas, such as climate change.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have gratuated from the MSc in Data Science at the University of Milano-Bicocca, with a thesis in the use of Natural Language Processing to explain biases in the online discourse, supervised by [Prof. Matteo Luigi Palmonari](https://www.unimib.it/matteo-luigi-palmonari).
+
+My research interests span from `natural language processing` applied to online interactions, to `complex systems` models of human behavior and `opinion dynamics`. 
+
+In my spare time, I enjoy baking (especially italian desserts 🇮🇹), running and playing board games.
