@@ -2,7 +2,7 @@
 layout: page
 title: FormaFluens
 description: Cross-cultural Analysis of Category Prototypes Using Billions of Digitised Drawings
-img: assets/img/12.jpg
+img: assets/img/formafluens.avif
 importance: 1
 category: work
 related_publications: false

@@ -103,7 +103,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Drop me and email, I am happy to chat about research and food.
+  Drop me and email, I am happy to chat about research (or exchange bakery recommendations 🥐).
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -424,17 +424,17 @@ vega-lite:
 
 jekyll_get_json:
   - data: resume
-    json: assets/json/resume.json # it can also be an url
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+    json: https://ariannap13.github.io/assets/pdf/arianna_pera.pdf # it can also be an url
+# jsonresume:
+#   - basics
+#   - work
+#   - education
+#   - publications
+#   - projects
+#   - volunteer
+#   - awards
+#   - certificates
+#   - skills
+#   - languages
+#   - interests
+#   - references
