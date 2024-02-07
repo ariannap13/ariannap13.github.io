@@ -422,9 +422,9 @@ vega-lite:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: https://ariannap13.github.io/assets/pdf/arianna_pera.pdf # it can also be an url
+# jekyll_get_json:
+#   - data: resume
+#     json: https://ariannap13.github.io/assets/pdf/arianna_pera.pdf # it can also be an url
 # jsonresume:
 #   - basics
 #   - work
