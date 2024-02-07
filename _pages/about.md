@@ -27,3 +27,5 @@ I have gratuated from the MSc in Data Science at the University of Milano-Bicocc
 My research interests span from `natural language processing` applied to social dimensions, to `complex systems` models of human behavior and online `opinion dynamics`. 
 
 In my spare time, I enjoy baking (especially italian desserts 🇮🇹), running and playing board games.
+
+[Download my CV here](./assets/pdf/arianna_pera.pdf)
