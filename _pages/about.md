@@ -28,4 +28,4 @@ My research interests span from `natural language processing` applied to social 
 
 In my spare time, I enjoy baking (especially italian desserts 🇮🇹), running and playing board games.
 
-[Download my CV here](./assets/pdf/arianna_pera.pdf)
+[Download my CV here](./assets/pdf/arianna_pera_cv.pdf)
