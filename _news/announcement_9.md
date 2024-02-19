@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-This week I will be in Turin 🇮🇹, visiting and giving talks on my PhD research on Wednesday (CENTAI) and Friday (ISI Foundation). It's going to be an exciting week!
+This week I will be in Turin 🇮🇹, visiting and giving talks on my PhD research on Wednesday at [CENTAI](https://centai.eu/home) and Friday at [ISI Foundation](https://isi.it/en/home). It's going to be an exciting week!
