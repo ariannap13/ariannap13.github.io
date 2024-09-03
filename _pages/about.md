@@ -19,8 +19,9 @@ social: true # includes social icons at the bottom of the page
 
 Hi, welcome on my page ☀️
 
-I am a PhD student in Computational Social Science at the IT University of Copenhagen where I joined the [NERDS research group](https://nerds.itu.dk/).
-My research is part of the [COllective COordination through Online Social media (COCOONS)](https://www.cocoons.online/) research project, led by [Prof. Luca Maria Aiello](https://www.lajello.com/index.html). My current focus is on identifying the prime elements in social interactions that can lead to the emergence of collective efforts towards finding solutions to social dilemmas, such as climate change.
+I am a PhD student in Computational Social Science at the IT University of Copenhagen where I joined the [NERDS research group](https://nerds.itu.dk/). I am a visiting PhD student at the [School of Information](https://www.si.umich.edu/) at the University of Michigan until December 2024, working with [Ceren Budak](http://cbudak.com/index.html).
+
+My research is part of the [COllective COordination through Online Social media (COCOONS)](https://www.cocoons.online/) research project, led by [Prof. Luca Maria Aiello](https://www.lajello.com/index.html). My current focus is on identifying the prime elements in social interactions that can lead to the emergence of collective efforts towards finding solutions to social issues, such as climate change.
 
 I have gratuated from the MSc in Data Science at the University of Milano-Bicocca, with a thesis in the use of Natural Language Processing to explain biases in the online discourse, supervised by [Prof. Matteo Luigi Palmonari](https://www.unimib.it/matteo-luigi-palmonari).
 
