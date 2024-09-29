@@ -25,8 +25,8 @@ My research is part of the [COllective COordination through Online Social media 
 
 I have gratuated from the MSc in Data Science at the University of Milano-Bicocca, with a thesis in the use of Natural Language Processing to explain biases in the online discourse, supervised by [Prof. Matteo Luigi Palmonari](https://www.unimib.it/matteo-luigi-palmonari).
 
-My research interests span from `natural language processing` applied to social dimensions, to `complex systems` models of human behavior and online `opinion dynamics`. 
+My research interests span from `natural language processing` applied to social interactions, to `complex systems` models of human behavior and online `opinion dynamics`. 
 
 In my spare time, I enjoy baking (especially italian desserts 🇮🇹), running and playing board games.
 
-[Download my CV here](./assets/pdf/arianna_pera_cv.pdf)
+[Download my CV here](./assets/pdf/arianna_pera_sept24.pdf)
