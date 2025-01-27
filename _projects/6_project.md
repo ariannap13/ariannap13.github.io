@@ -2,7 +2,7 @@
 layout: page
 title: Collective Deliberation on Social Issues
 description: Building a platform to discuss, propose and decide for mitigation strategies on social issues
-img: assets/img/
+img: assets/img/collaboration.jpg
 importance: 1
 category: ongoing work
 related_publications: false
