@@ -3,7 +3,7 @@ layout: page
 title: Labor Unions and Digital Media Strategies
 description: Can we predict changes in online communication through different organizational steps?
 img: assets/img/labor.jpg
-importance: 1
+importance: 5
 category: ongoing work
 related_publications: false
 ---
