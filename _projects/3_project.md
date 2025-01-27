@@ -1,10 +1,10 @@
 ---
 layout: page
 title: TikTok and Climate Change
-description: map the discussion on one of the biggest issue of the 21st century 
+description: Mapping the online discussion on climate change
 img: assets/img/tiktok_climate.avif
 importance: 3
-category: work
+category: project ideas
 ---
 
 TikTok is becoming increasingly popular, especially among younger users. Its specific dynamics make it a very interesting source to study engagement around pressing global issues. 

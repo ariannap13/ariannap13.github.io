@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some cool on-going research projects.
+description: Some cool on-going research projects and research ideas.
 nav: true
 nav_order: 3
 display_categories: [work]

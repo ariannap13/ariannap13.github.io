@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Commitment to Action Quantification
+title: Multi-Modal Participation in Collective Action and its Diffusion
 description: Operationalization a fuzzy social science concept
 img: assets/img/collective_action.avif
 importance: 2
-category: work
+category: project ideas
 giscus_comments: false
 ---
 
 We live in a world where grassroots coordination efforts are a crucial aspect to find solutions to social dilemmas. 
 
-How can commitment to such coordination efforts be quantified? Despite the presence of dictionary-based approaches relying on social science models of collective action and network science approaches to explore the role of user groups in spreading activism, there is the need to further understand how commitment to action ground-truth can be extracted from social media messages.
+How can participation in such coordination efforts be quantified from social media? Textual, images and video traces pose an interesting challenge to detect presence of committed users. Moreover, the mechanism in which such commitment spreads online is complex and needs to take into account the role of individuals and groups.
