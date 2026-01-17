@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Multi-Modal Participation in Collective Action and its Diffusion
-description: Operationalization a fuzzy social science concept
-img: assets/img/collective_action.avif
+title: Collective Deliberation on Social Issues
+description: Building a platform to discuss, propose and decide for mitigation strategies on social issues
+img: assets/img/collaboration.jpg
 importance: 2
-category: project ideas
-giscus_comments: false
+category: ongoing work
+related_publications: false
 ---
 
-We live in a world where grassroots coordination efforts are a crucial aspect to find solutions to social dilemmas. 
-
-How can participation in such coordination efforts be quantified from social media? Textual, images and video traces pose an interesting challenge to detect presence of committed users. Moreover, the mechanism in which such commitment spreads online is complex and needs to take into account the role of individuals and groups.
+Ongoing collaboration effort with [Anders Giovanni Møller](https://www.andersgiovanni.com/), [Alessia Galdeman](https://alessiaatunimi.github.io/), and [Luca Maria Aiello](https://www.lajello.com/) as part of the [COCOONS project](https://www.cocoons.online/).

@@ -1,12 +1,11 @@
 ---
 layout: page
-title: TikTok and Climate Change
-description: Mapping the online discussion on climate change
-img: assets/img/tiktok_climate.avif
+title:  Climate Advocates’ Media Portrayals
+description: Measuring bias in news media representation of social media advocates
+img: assets/img/collaboration.jpg
 importance: 3
-category: project ideas
+category: ongoing work
+related_publications: false
 ---
 
-TikTok is becoming increasingly popular, especially among younger users. Its specific dynamics make it a very interesting source to study engagement around pressing global issues. 
-
-What are the topical clusters within TikTok content on climate change? Can we see a different reaction based on the topical focus, in relation to exogenous events?
+Ongoing collaboration effort with [Clara Vanderweerdt](https://www.claravdw.com/).
