@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student @ IT University of Copenhagen · Denmark
+subtitle: Research Assistant @ University of Copenhagen · Denmark
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Reach me at arpe@itu.dk
+    Reach me at arianna.pera22@gmail.com
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -19,14 +19,15 @@ social: true # includes social icons at the bottom of the page
 
 Hi, welcome on my page ☀️
 
-I am a PhD student in Computational Social Science at the IT University of Copenhagen in the [NERDS research group](https://nerds.itu.dk/). I've been a visiting PhD student at the [School of Information](https://www.si.umich.edu/) at the University of Michigan until December 2024, working with [Ceren Budak](http://cbudak.com/index.html).
+I am a Research Assistant at the [Copenhagen Center for Social Data Science](https://sodas.ku.dk/) and will soon start a Postdoc there. 
+I was previously a PhD student at the IT University of Copenhagen in the [NERDS research group](https://nerds.itu.dk/), supervised by [Prof. Luca Maria Aiello](https://www.lajello.com/index.html). 
+I've been a visiting PhD student at the [School of Information](https://www.si.umich.edu/) at the University of Michigan until December 2024, working with [Ceren Budak](http://cbudak.com/index.html).
 
-My research is part of the [COllective COordination through Online Social media (COCOONS)](https://www.cocoons.online/) research project, led by [Prof. Luca Maria Aiello](https://www.lajello.com/index.html). My current focus is on identifying the prime elements in social interactions and language that can lead to the emergence of collective efforts in the realm of social issues, such as climate change.
+My research is part of the Climate Advocates’ Media Portrayals (CAMP) research project, funded by the Independent Research Fund Denmark ([DFF](https://dff.dk/en/)) and led by [Assistant Prof. Clara Vandeweerdt](https://www.claravdw.com/). 
+My current focus is on studying bias in the representation of climate advocates in news media, as well as broader dynamics of climate action.
 
-I have gratuated from the MSc in Data Science at the University of Milano-Bicocca, with a thesis in the use of Natural Language Processing to explain biases in the online discourse, supervised by [Prof. Matteo Luigi Palmonari](https://www.unimib.it/matteo-luigi-palmonari).
+My research interests lie in the study of collective action dynamics, focusing on social and traditional media sources and applying `natural language processing` to study the link between the use of language and the emergence of collective behaviors and `social network analysis` to explore human interactions.
 
-My research interests are `natural language processing` applied to social interactions, `discourse frames` used in digital communication, and `social network analysis` of online human behavior. 
+In my spare time, I enjoy baking (especially italian desserts 🇮🇹), running and knitting while listening to true crime podcasts.
 
-In my spare time, I enjoy baking (especially italian desserts 🇮🇹), running and playing board games.
-
-[Download my CV here](./assets/pdf/cv_ariannapera_jan25.pdf)
+[Download my CV here](./assets/pdf/arianna_pera_jan26.pdf)
