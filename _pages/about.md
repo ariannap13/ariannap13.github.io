@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Assistant @ University of Copenhagen · Denmark
+subtitle: Postdoc @ University of Copenhagen · Denmark
 
 profile:
   align: right
@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, welcome on my page ☀️
 
-I am a Research Assistant at the [Copenhagen Center for Social Data Science](https://sodas.ku.dk/) and will soon start a Postdoc there. 
+I am a Postdoc at the [Copenhagen Center for Social Data Science](https://sodas.ku.dk/). 
 I was previously a PhD student at the IT University of Copenhagen in the [NERDS research group](https://nerds.itu.dk/), supervised by [Prof. Luca Maria Aiello](https://www.lajello.com/index.html). 
 I've been a visiting PhD student at the [School of Information](https://www.si.umich.edu/) at the University of Michigan until December 2024, working with [Ceren Budak](http://cbudak.com/index.html).
 
